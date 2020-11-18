@@ -1,0 +1,7 @@
+/**/main.go
+/**/run.go
+/**/utils.go
+!/FuturesTemplate/**/*.go
+!/SpotTemplate/**/*.go
+.DS_Store
+
