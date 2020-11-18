@@ -8,5 +8,5 @@ FMZ Quant Platform Editor Plugin
   使用方法：
   点击Sublime编辑器菜单Preferences->Browse Packages..，进入Packages目录，将**SublimeFMZCodeEditTips**文件夹放置在这个目录即可。
 
-  ![图1](https://github.com/LittleLittleDream/FMZPlatformPlugin/blob/main/img/SublimeFMZCodeEditTipsTextPng1.png)
-  ![图2](https://github.com/LittleLittleDream/FMZPlatformPlugin/blob/main/img/SublimeFMZCodeEditTipsTextPng2.png)
+  https://github.com/LittleLittleDream/FMZPlatformPlugin/blob/main/img/SublimeFMZCodeEditTipsTextPng1.png
+  https://github.com/LittleLittleDream/FMZPlatformPlugin/blob/main/img/SublimeFMZCodeEditTipsTextPng2.png
